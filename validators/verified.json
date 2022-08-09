@@ -1,0 +1,570 @@
+[
+ {
+   "id": 9,
+   "moniker": "Dijkstra",
+   "jailed": false,
+   "tokens": 9748063339589,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 33,
+   "moniker": "Hamming",
+   "jailed": false,
+   "tokens": 9652269031154,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 32,
+   "moniker": "Kruskal",
+   "jailed": false,
+   "tokens": 9494780081800,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 89,
+   "moniker": "Tarjan",
+   "jailed": false,
+   "tokens": 9015233794530,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 44,
+   "moniker": "Knuth",
+   "jailed": false,
+   "tokens": 8995553771721,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 67,
+   "moniker": "Binance validator",
+   "jailed": false,
+   "tokens": 7534104196057,
+   "website": "",
+   "verified": true
+ },
+ {
+   "id": 6,
+   "moniker": "figment",
+   "jailed": false,
+   "tokens": 3372492436823,
+   "website": "https://figment.network",
+   "verified": true
+ },
+ {
+   "id": 99,
+   "moniker": "Cosmostation",
+   "jailed": false,
+   "tokens": 3170442056868,
+   "website": "https://www.cosmostation.io",
+   "verified": true
+ },
+ {
+   "id": 14,
+   "moniker": "sorawit",
+   "jailed": false,
+   "tokens": 3047699150477,
+   "website": "https://twitter.com/nomorebear",
+   "verified": false
+ },
+ {
+   "id": 66,
+   "moniker": "🐠stake.fish",
+   "jailed": false,
+   "tokens": 2819301849038,
+   "website": "https://stake.fish",
+   "verified": true
+ },
+ {
+   "id": 83,
+   "moniker": "StakeWith.Us",
+   "jailed": false,
+   "tokens": 2588731550842,
+   "website": "https://StakeWith.Us",
+   "verified": true
+ },
+ {
+   "id": 70,
+   "moniker": "Chorus One",
+   "jailed": false,
+   "tokens": 2534655360923,
+   "website": "https://chorus.one",
+   "verified": true
+ },
+ {
+   "id": 1,
+   "moniker": "B-Harvest",
+   "jailed": false,
+   "tokens": 2521868733103,
+   "website": "https://bharvest.io/",
+   "verified": true
+ },
+ {
+   "id": 74,
+   "moniker": "Forbole",
+   "jailed": false,
+   "tokens": 2025402635474,
+   "website": "https://www.forbole.com/cosmos-hub-validator/",
+   "verified": true
+ },
+ {
+   "id": 61,
+   "moniker": "Active Nodes",
+   "jailed": false,
+   "tokens": 2023532578140,
+   "website": "https://www.activenodes.io",
+   "verified": true
+ },
+ {
+   "id": 39,
+   "moniker": "Pickle Banddd (🅑))",
+   "jailed": false,
+   "tokens": 1594016995000,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 103,
+   "moniker": "Wanchain",
+   "jailed": false,
+   "tokens": 1521651231468,
+   "website": "https://www.wanchain.org/",
+   "verified": false
+ },
+ {
+   "id": 43,
+   "moniker": "HashQuark",
+   "jailed": false,
+   "tokens": 1503356738352,
+   "website": "https://www.hashquark.io",
+   "verified": true
+ },
+ {
+   "id": 63,
+   "moniker": "Atomic Wallet",
+   "jailed": false,
+   "tokens": 1489389752629,
+   "website": "https://atomicwallet.io/",
+   "verified": true
+ },
+ {
+   "id": 13,
+   "moniker": "Woodstock Fund",
+   "jailed": false,
+   "tokens": 1464606740049,
+   "website": "www.woodstockfund.com",
+   "verified": false
+ },
+ {
+   "id": 72,
+   "moniker": "UbikCapital",
+   "jailed": false,
+   "tokens": 1018350091912,
+   "website": "https://ubik.capital/",
+   "verified": false
+ },
+ {
+   "id": 2,
+   "moniker": "WeStaking",
+   "jailed": false,
+   "tokens": 1001514085097,
+   "website": "https://westaking.io",
+   "verified": true
+ },
+ {
+   "id": 82,
+   "moniker": "infstones",
+   "jailed": false,
+   "tokens": 1000374511315,
+   "website": "https://infstones.io",
+   "verified": true
+ },
+ {
+   "id": 42,
+   "moniker": "Huobi",
+   "jailed": false,
+   "tokens": 1000293876240,
+   "website": "https://www.huobi.com",
+   "verified": true
+ },
+ {
+   "id": 80,
+   "moniker": "ATEAM[Please_re-delegate_to_another_node]",
+   "jailed": false,
+   "tokens": 1000017005000,
+   "website": "https://nodeateam.com",
+   "verified": true
+ },
+ {
+   "id": 84,
+   "moniker": "Wellstake",
+   "jailed": false,
+   "tokens": 569099975869,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 65,
+   "moniker": "Smart Stake",
+   "jailed": false,
+   "tokens": 505565697613,
+   "website": "www.smartstake.io",
+   "verified": true
+ },
+ {
+   "id": 59,
+   "moniker": "Everstake",
+   "jailed": false,
+   "tokens": 265399933196,
+   "website": "https://everstake.one",
+   "verified": true
+ },
+ {
+   "id": 48,
+   "moniker": "Citadel.one",
+   "jailed": false,
+   "tokens": 247715732968,
+   "website": "https://citadel.one",
+   "verified": true
+ },
+ {
+   "id": 76,
+   "moniker": "🎲 Hub",
+   "jailed": false,
+   "tokens": 232172497678,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 101,
+   "moniker": "SolidOne",
+   "jailed": false,
+   "tokens": 153467734879,
+   "website": "http://SolidOne.io",
+   "verified": false
+ },
+ {
+   "id": 94,
+   "moniker": "StakeCraft",
+   "jailed": false,
+   "tokens": 152743762673,
+   "website": "https://stakecraft.com",
+   "verified": false
+ },
+ {
+   "id": 47,
+   "moniker": "BitMaxStaking",
+   "jailed": false,
+   "tokens": 120648124905,
+   "website": "https://bitmax.io/",
+   "verified": false
+ },
+ {
+   "id": 115,
+   "moniker": "Stakewolle.com | Auto-compound",
+   "jailed": false,
+   "tokens": 119744840008,
+   "website": "https://stakewolle.com",
+   "verified": false
+ },
+ {
+   "id": 21,
+   "moniker": "BlockNgine 🛡️ Slash Protected",
+   "jailed": false,
+   "tokens": 85210485513,
+   "website": "https://blockngine.io",
+   "verified": false
+ },
+ {
+   "id": 24,
+   "moniker": "BandJediTeam",
+   "jailed": false,
+   "tokens": 83942162999,
+   "website": "https://twitter.com/BandJediTeam",
+   "verified": false
+ },
+ {
+   "id": 54,
+   "moniker": "0base.vc",
+   "jailed": false,
+   "tokens": 57812865497,
+   "website": "https://0base.vc",
+   "verified": false
+ },
+ {
+   "id": 11,
+   "moniker": "ICON Foundation",
+   "jailed": false,
+   "tokens": 56256706560,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 55,
+   "moniker": "AUDIT.one",
+   "jailed": false,
+   "tokens": 54182876531,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 41,
+   "moniker": "StakeSabai",
+   "jailed": false,
+   "tokens": 50353612735,
+   "website": "https://sabai.finance",
+   "verified": false
+ },
+ {
+   "id": 28,
+   "moniker": "Fantom Foundation",
+   "jailed": false,
+   "tokens": 50198271380,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 5,
+   "moniker": "Just-Mining",
+   "jailed": false,
+   "tokens": 47375693311,
+   "website": "https://just-mining.com",
+   "verified": false
+ },
+ {
+   "id": 90,
+   "moniker": "🚀 N1 | NodeOne",
+   "jailed": false,
+   "tokens": 32068911033,
+   "website": "https://t.me/n1nodeone",
+   "verified": false
+ },
+ {
+   "id": 126,
+   "moniker": "NodeWorks",
+   "jailed": false,
+   "tokens": 20888262220,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 112,
+   "moniker": "SargatxetPool",
+   "jailed": false,
+   "tokens": 16890959324,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 122,
+   "moniker": "StakeLab",
+   "jailed": false,
+   "tokens": 12262460304,
+   "website": "https://www.stakelab.fr",
+   "verified": false
+ },
+ {
+   "id": 51,
+   "moniker": "ChainodeTech",
+   "jailed": false,
+   "tokens": 12018635992,
+   "website": "https://chainode.tech/",
+   "verified": false
+ },
+ {
+   "id": 38,
+   "moniker": "MANTRA DAO",
+   "jailed": false,
+   "tokens": 8562311572,
+   "website": "https://mantradao.com",
+   "verified": false
+ },
+ {
+   "id": 52,
+   "moniker": "Spanish_Node",
+   "jailed": false,
+   "tokens": 8408582875,
+   "website": "http://spanish-node.es",
+   "verified": false
+ },
+ {
+   "id": 125,
+   "moniker": "feel-mining",
+   "jailed": false,
+   "tokens": 6008867196,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 109,
+   "moniker": "Bi23 Labs",
+   "jailed": false,
+   "tokens": 5259995983,
+   "website": "https://bi23.com",
+   "verified": false
+ },
+ {
+   "id": 131,
+   "moniker": "✅ CryptoCrew Validators #IBCgang",
+   "jailed": false,
+   "tokens": 3372818779,
+   "website": "https://ccvalidators.com",
+   "verified": false
+ },
+ {
+   "id": 113,
+   "moniker": "High Stakes 🇨🇭",
+   "jailed": false,
+   "tokens": 3019757603,
+   "website": "https://highstakes.ch/",
+   "verified": false
+ },
+ {
+   "id": 130,
+   "moniker": "Crypto Lion 🦁 (0% fee)",
+   "jailed": false,
+   "tokens": 3009028404,
+   "website": "https://cryptolion.finance",
+   "verified": false
+ },
+ {
+   "id": 56,
+   "moniker": "TaiPanich",
+   "jailed": false,
+   "tokens": 1374871342,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 22,
+   "moniker": "blockscape",
+   "jailed": false,
+   "tokens": 1339983078,
+   "website": "https://blockscape.network/",
+   "verified": false
+ },
+ {
+   "id": 127,
+   "moniker": "CryptoStacking - 0% fee",
+   "jailed": false,
+   "tokens": 1257917361,
+   "website": "https://cryptostacking.network",
+   "verified": false
+ },
+ {
+   "id": 146,
+   "moniker": "kooltek68",
+   "jailed": false,
+   "tokens": 1158324501,
+   "website": "https://twitter.com/HungNgu76442123",
+   "verified": false
+ },
+ {
+   "id": 137,
+   "moniker": "Inter Blockchain Services (former 3Tekos)",
+   "jailed": false,
+   "tokens": 696462082,
+   "website": "https://ibs.team",
+   "verified": false
+ },
+ {
+   "id": 88,
+   "moniker": "Atlas-Staking.com",
+   "jailed": false,
+   "tokens": 528951298,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 111,
+   "moniker": "MKV.one",
+   "jailed": false,
+   "tokens": 391960527,
+   "website": "https://mkv.one",
+   "verified": false
+ },
+ {
+   "id": 3,
+   "moniker": "Anchor Staking",
+   "jailed": false,
+   "tokens": 352950167,
+   "website": "https://www.anchorstaking.com",
+   "verified": false
+ },
+ {
+   "id": 135,
+   "moniker": "NQ4.NET",
+   "jailed": false,
+   "tokens": 335502183,
+   "website": "https://nq4.net",
+   "verified": false
+ },
+ {
+   "id": 118,
+   "moniker": "Notional",
+   "jailed": false,
+   "tokens": 300600000,
+   "website": "https://github.com/notional-labs",
+   "verified": false
+ },
+ {
+   "id": 140,
+   "moniker": "PoorButHappy",
+   "jailed": false,
+   "tokens": 223865935,
+   "website": "https://poorbuthappy.xyz",
+   "verified": false
+ },
+ {
+   "id": 141,
+   "moniker": "Closing, Please redelegate",
+   "jailed": false,
+   "tokens": 160738587,
+   "website": "https://dhk.org",
+   "verified": false
+ },
+ {
+   "id": 35,
+   "moniker": "Valnodes - Carbon Neutral Staking",
+   "jailed": false,
+   "tokens": 59814624,
+   "website": "https://www.valnodes.com",
+   "verified": false
+ },
+ {
+   "id": 143,
+   "moniker": "Jelly",
+   "jailed": false,
+   "tokens": 59000000,
+   "website": "",
+   "verified": false
+ },
+ {
+   "id": 132,
+   "moniker": "Chainnodes",
+   "jailed": false,
+   "tokens": 2000000,
+   "website": "https://chainnodes.net",
+   "verified": false
+ },
+ {
+   "id": 96,
+   "moniker": "MyCointainer-com",
+   "jailed": false,
+   "tokens": 1799800,
+   "website": "https://www.mycointainer.com/",
+   "verified": false
+ },
+ {
+   "id": 18,
+   "moniker": "Critical Staking",
+   "jailed": false,
+   "tokens": 737498,
+   "website": "http://criticalstaking.com",
+   "verified": false
+ }
+]
