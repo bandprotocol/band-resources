@@ -1,0 +1,22 @@
+<svg width="100%" height="100%" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_51)">
+<circle class="inverted" cx="90" cy="90" r="90" fill="white"/>
+<path class="inverted-background" d="M90.0225 23L32 56.5021V123.484L90.0225 156.964L148 123.484V56.5021L90.0225 23ZM130.822 113.559L90.0225 137.114L49.2002 113.559V66.4045L90.0225 42.8498L130.822 66.4045V113.559Z" fill="#002D74"/>
+<path class="inverted-background" d="M90.0226 156.964L148 123.484V56.5021L90.0226 23V42.8722L130.822 66.427V113.581L90.0226 137.114V156.964Z" fill="url(#paint0_linear_18_51)"/>
+<path class="inverted-background" d="M89.9775 23L32 56.4797V123.461L89.9775 156.964V137.091L49.1777 113.537V66.3821L89.9775 42.8498V23Z" fill="url(#paint1_linear_18_51)"/>
+<path class="inverted-background" d="M117.08 105.633L90 121.261L62.8975 105.633V74.3535L90 58.7027L117.08 74.3535L105.808 80.8653L90 71.7263L74.1921 80.8653V99.0984L90 108.237L105.808 99.0984L117.08 105.633Z" fill="#002D74"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_18_51" x1="119.011" y1="156.964" x2="119.011" y2="89.9818" gradientUnits="userSpaceOnUse">
+<stop stop-color="#002D74"/>
+<stop offset="1" stop-color="#002D74" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_18_51" x1="60.9888" y1="23" x2="60.9888" y2="89.9818" gradientUnits="userSpaceOnUse">
+<stop stop-color="#002D74"/>
+<stop offset="1" stop-color="#002D74" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_18_51">
+<rect width="180" height="180" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="100%" height="100%" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_26_263)">
+<g clip-path="url(#clip1_26_263)">
+<path class="inverted" d="M90 180C139.706 180 180 139.706 180 90C180 40.2944 139.706 0 90 0C40.2944 0 0 40.2944 0 90C0 139.706 40.2944 180 90 180Z" fill="#28282E"/>
+<path class="inverted-background" d="M55.3816 60.35L80.556 74.8955V99.5108L55.3816 84.9654V60.35Z" fill="#EAEAEA"/>
+<path class="inverted-background" d="M99.5775 34.6157L124.193 48.6018L80.5565 74.8951L55.3821 60.35L99.5775 34.6157Z" fill="white"/>
+<path class="inverted-background" d="M124.195 119.651L99.0198 105.105V80.4902L124.195 95.0353V119.651Z" fill="#EAEAEA"/>
+<path class="inverted-background" d="M79.9989 145.385L55.3835 131.399L99.0199 105.106L124.194 119.651L79.9989 145.385Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_26_263">
+<rect width="180" height="180" fill="white"/>
+</clipPath>
+<clipPath id="clip1_26_263">
+<rect width="180" height="180" fill="white"/>
+</clipPath>
+</defs>
+</svg>
